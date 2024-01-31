@@ -1,6 +1,6 @@
 <h1 align="center"> Meu TIMER </h1>
 <h4 align="center"> 
-![Tecnologias](https://github.com/MarckusP/Timer/assets/111365757/c058eb19-ae02-4777-add5-38aaed6c59ba).
+![Capa do projeto](https://github.com/MarckusP/Timer/assets/111365757/c058eb19-ae02-4777-add5-38aaed6c59ba)
 </h4>
 
 
