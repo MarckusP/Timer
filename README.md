@@ -10,5 +10,15 @@ Aprendendo e usando setInterval, setTimeout e clearInterval no curso básico ao 
     :construction:  Projeto finalizado  :construction:
 </h4>
 
-
-![Informações do projeto](https://github.com/MarckusP/Timer/assets/111365757/c7c98d98-0ec3-449c-932f-d1fcf1ac5a54)
+- Regras logicas aplicadas ao botões para realizar as ações
+    - botão iniciar atribui o valor de false para a a variável que identifica se está avivo ou não assim garantindo se o cronometro esta pausado
+    - O botão pausar, pausa o timer e em automático troca o nome do botão iniciar por ‘voltar’ para voltar a contagem
+        - Imagem com print mostrando isso
+    - Botão zerar simplesmente carrega da um reloud na pagina zerando o cronometro novamente
+    
+    <aside>
+    💡 Os botões tem duas classes no HTML que tem diferentes propriedades no CSS para que através do JS consiga alterar se o botão pode ou não ser clicado baseado no estado do timer 
+    
+    Se está contando se está zerado e ou pausado
+    
+    </aside>
