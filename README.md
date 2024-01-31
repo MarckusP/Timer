@@ -1,7 +1,12 @@
 <h1 align="center"> Meu TIMER </h1>
-<h4 align="center"> 
-![Capa do projeto](https://github.com/MarckusP/Timer/assets/111365757/c058eb19-ae02-4777-add5-38aaed6c59ba)
+
+<h4 align="center" >
+    <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1566995514/noticon/jufppyr8htislboas4ve.png" width="50" height="50">
+    <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1601427023/noticon/l6t6zqfacfgmeogmwmkl.png" width="40" height="40">
+    <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1566557375/noticon/reezsa2psnh8moufkd5l.png" width="40" height="40">
+    
 </h4>
+
 
 
 ![Capa do projeto](https://github.com/MarckusP/Timer/assets/111365757/c058eb19-ae02-4777-add5-38aaed6c59ba)
