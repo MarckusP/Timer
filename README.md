@@ -8,11 +8,12 @@
 </h4>
 
 
+<h4 align="center"  >
+    <img src="https://github.com/MarckusP/Timer/assets/111365757/c058eb19-ae02-4777-add5-38aaed6c59ba">
+</h4>
 
-![Capa do projeto](https://github.com/MarckusP/Timer/assets/111365757/c058eb19-ae02-4777-add5-38aaed6c59ba)
-
-
-Aprendendo e usando setInterval, setTimeout e clearInterval no curso básico ao avançado de JS, tudo serve para o aperfeiçoamento de abilidades.
+<h4 align="center" >
+    Aprendendo e usando setInterval, setTimeout e clearInterval no curso básico ao avançado de JS, tudo serve para o aperfeiçoamento de abilidades.
 
 <h4 align="center"> 
     :construction:  Projeto finalizado  :construction:
@@ -36,3 +37,6 @@ Aprendendo e usando setInterval, setTimeout e clearInterval no curso básico ao 
             se está contando se está zerado e ou pausado
     
     </aside>
+
+</h4>
+
