@@ -20,6 +20,8 @@ Aprendendo e usando setInterval, setTimeout e clearInterval no curso básico ao 
     
     <aside>
     
-        💡 Os botões tem duas classes no HTML que tem diferentes propriedades no CSS para que através do JS consiga alterar se o botão pode ou não ser clicado baseado no estado do timer, se está contando se está zerado e ou pausado
+        💡 Os botões tem duas classes no HTML que tem diferentes propriedades no CSS para que através
+            do JS consiga alterar se o botão pode ou não ser clicado baseado no estado do timer,
+            se está contando se está zerado e ou pausado
     
     </aside>
