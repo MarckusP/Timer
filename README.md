@@ -1,10 +1,7 @@
 <h1 align="center"> Meu TIMER </h1>
 <h4 align="center"> 
-    
     ![Tecnologias](https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1567008394/noticon/ohybolu4ensol1gzqas1.png)
-    
     ![Tecnologias](https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1566995514/noticon/jufppyr8htislboas4ve.png)
-    
     ![Tecnologias](https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1566912109/noticon/puksfce6wca36hes1vom.png)
 </h4>
 
