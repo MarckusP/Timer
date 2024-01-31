@@ -1,4 +1,4 @@
-<h1 align="center"> Seu título aqui </h1>
+<h1 align="center"> Meu TIMER </h1>
 
 
 ![Capa do projeto](https://github.com/MarckusP/Timer/assets/111365757/c058eb19-ae02-4777-add5-38aaed6c59ba)
