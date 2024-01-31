@@ -13,14 +13,17 @@ Aprendendo e usando setInterval, setTimeout e clearInterval no curso básico ao 
 
 - Regras logicas aplicadas ao botões para realizar as ações
   
-    - botão iniciar atribui o valor de false para a a variável que identifica se está avivo ou não assim garantindo se o cronometro esta pausado
+    - botão iniciar atribui o valor de false para a a variável que identifica se está ativo ou não assim garantindo se o cronometro esta pausado
+      
     - O botão pausar, pausa o timer e em automático troca o nome do botão iniciar por ‘voltar’ para voltar a contagem
         - Imagem com print mostrando isso
+          
     - Botão zerar simplesmente carrega da um reloud na pagina zerando o cronometro novamente
     
     <aside>
     
-        💡 Os botões tem duas classes no HTML que tem diferentes propriedades no CSS para que através
+
+      💡 Os botões tem duas classes no HTML que tem diferentes propriedades no CSS para que através
             do JS consiga alterar se o botão pode ou não ser clicado baseado no estado do timer,
             se está contando se está zerado e ou pausado
     
